@@ -1,6 +1,9 @@
 # Neovim Windows IDE
 A simple, beginner-friendly Neovim configuration that makes Neovim feel more like a lightweight IDE on Windows.
 
+<img width="1366" height="768" alt="nvim" src="https://github.com/user-attachments/assets/68920b1e-19dc-42d5-9ece-c202c5e18d68" />
+
+
 it includes a file explorer, code completion, syntax highlighting, terminal, split navigation, useful shortcuts and a clean interface.
 
 The configuration is designed for Neovim 0.5.1 on Windows x86 (32-bit) and is especially suitable for older or low-resource computers.
