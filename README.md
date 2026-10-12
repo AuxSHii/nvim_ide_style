@@ -1,5 +1,5 @@
 # Neovim Windows IDE
-A simple, beginner-friendly Neovim configuration that makes Neovim feel more like a lightweight IDE on Windows.
+A simple, beginner-friendly Neovim configuration that makes Neovim more like a lightweight IDE on Windows.
 
 <img width="1366" height="768" alt="nvim" src="https://github.com/user-attachments/assets/68920b1e-19dc-42d5-9ece-c202c5e18d68" />
 
@@ -165,7 +165,7 @@ The goal is to provide a small, understandable and usable IDE-style environment 
 
 ## Controls
 See:
-CONTROLS.md (http://CONTROLS.md/)
+controls.md 
 It contains the complete keyboard shortcut and file-explorer reference.
 
 ## Customization
