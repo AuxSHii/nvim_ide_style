@@ -216,4 +216,14 @@ nnoremap <C-v> "+p
 inoremap <C-v> <C-r>+
 
 
+" ============================================================
+" Auto-save
+" ============================================================
+
+set updatetime=1000
+
+augroup IDE_AUTOSAVE
+    autocmd!
+    autocmd CursorHold,CursorHoldI * silent! update
+augroup END
 
