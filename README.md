@@ -10,6 +10,7 @@ The configuration is designed for Neovim 0.5.1 on Windows x86 (32-bit) and is es
 
 ## Features
 NERDTree file explorer
+Auto-Save (added)
 Syntax highlighting
 Code completion
 Built-in terminal
